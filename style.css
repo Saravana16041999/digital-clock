@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #001f3f;
+}
+
+.container {
+  display: flex;
+  width: 500px;
+  height: 100px;
+  background-color: #85144b;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 50px;
+  color: white;
+  border-radius: 12px;
+  margin-top: 240px;
+  border-color: white;
+  border-style: solid;
+  box-shadow: 2px 2px 10px 10px rgba(0, 0, 0, 0.613);
+}
